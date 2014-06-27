@@ -1,5 +1,5 @@
 // Airscan
-// By Cykey.
+// By Cykey (forked by daconex)
 
 #include <stdio.h>
 #include <stdlib.h>
